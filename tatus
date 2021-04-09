@@ -1,0 +1,30 @@
+[33mcommit 35c21200ce0a3f7d66b887a74ac51f8d4b7303ff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ginson Orellana <ginsorel@gmail.com>
+Date:   Sun Feb 21 18:29:58 2021 -0500
+
+    Se sube los ejemplos del curso vba para excel
+
+[1mdiff --git a/CursoVBA.xlsm b/CursoVBA.xlsm[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d54246b[m
+Binary files /dev/null and b/CursoVBA.xlsm differ
+[1mdiff --git a/CursoVBA_desde19video.xlsm b/CursoVBA_desde19video.xlsm[m
+[1mnew file mode 100644[m
+[1mindex 0000000..efad8c2[m
+Binary files /dev/null and b/CursoVBA_desde19video.xlsm differ
+[1mdiff --git a/CursoVBA_desde27videoFormulario.xlsm b/CursoVBA_desde27videoFormulario.xlsm[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1a3ed87[m
+Binary files /dev/null and b/CursoVBA_desde27videoFormulario.xlsm differ
+[1mdiff --git a/paises.txt b/paises.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..82c6afa[m
+[1m--- /dev/null[m
+[1m+++ b/paises.txt[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32mFrancia[m
+[32m+[m[32mEcuador[m
+[32m+[m[32mColombia[m
+[32m+[m[32mMexico[m
+[32m+[m[32mArgentina[m
+\ No newline at end of file[m
